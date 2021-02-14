@@ -10,4 +10,4 @@
 
 ### There is a footer section with contact information.
 
-! ![Alt text](code\first-portfolio\assests\screenshot.jpg)
+(\\assests\screenshot.jpg)
