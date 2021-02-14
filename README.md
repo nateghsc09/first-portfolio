@@ -10,4 +10,4 @@
 
 ### There is a footer section with contact information.
 
-(\\assests\screenshot.jpg)
+! ![screenshot](\assests\screenshot.jpg)
